@@ -1,7 +1,7 @@
 # For-The-One
 
 <p align="center">
-  <img style="width: 250px; height: 300px;" src="./Assets/Sprites/Others/Thumbnail.png" />
+  <img style="width: 70%;" src="./Assets/Sprites/Others/Thumbnail.png" />
 </p>
 
 For the One is a Fun and Creative Way to propose your special someone.
