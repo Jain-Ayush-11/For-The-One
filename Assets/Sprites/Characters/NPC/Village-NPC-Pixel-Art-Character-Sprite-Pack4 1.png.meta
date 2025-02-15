@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: d713ee77bc6670045b13a3875459ac34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d26bb47787b82447a34da578c2b09b1
+      internalID: -509437331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdba59cb97b5164a9ec0696c9c10170
+      internalID: -1728682774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807398c4e0fcf649bf3c58092603a70
+      internalID: 960300860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b4609836d34846b80201575bced67
+      internalID: 1076796244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163293fe6f11934583e9941af539d0f
+      internalID: 1964149963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d4b39bdef75b44bbdbcda0ee995288
+      internalID: -2070541353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_6
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 603.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580feaa208c16f24288a898ca3b778d0
+      internalID: 1156256057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049f49da2af65d408a80b8a228ff817
+      internalID: 1805736358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc167055dd42da4ab8454d0774d3bb1
+      internalID: 1261524533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b6cb53b6fc7504db3c855799edd567
+      internalID: 463432756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fec0816e07f1542893c46224091bbc
+      internalID: -720073254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b3931436ef8d48b9fc934dd8dee96
+      internalID: -1250897864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83488a4120af10b41805b928111f9e88
+      internalID: 32079078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273f71c255a1414698bcb366b1fba41
+      internalID: 782075551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_14
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 402.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc974d3b1820abd468c49d4d4c235ad0
+      internalID: -1950774153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac781e73870b9f418cae41124ab98a2
+      internalID: -384205999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb734f4ebc41c44ab334b50720c0987
+      internalID: -921307985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0fa89b3854a64384114e1a6bfec60
+      internalID: -1368000022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953f4dc4a4cf684dbf6cadba614cf35
+      internalID: 1616499988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b71e5b194c88c04e848c0a287b3de3c
+      internalID: 741414295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bde29518462eb46a5d0cbbcf9ad2f2
+      internalID: -755025779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_21
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354fe3d9b068af842815a99bb4c9e4ce
+      internalID: 2042392061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_22
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 201.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c0170a68d5c94e817ccee23a705e9
+      internalID: -253323150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377dadf28d288440b598817b8516ad8
+      internalID: -1749175521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf7b778d313134e929ef50e7b7228c
+      internalID: -645900837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4f9dc38b48c34dbe9073f08a44512
+      internalID: -587765777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d965e7754ecf488dc40d6d210b808
+      internalID: -1747802777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb68cc47dfe9ec4bb96a34eb1454b9b
+      internalID: -519864523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_28
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9161d81029dedc44975e4d9d6357808
+      internalID: -30289450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_29
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6517af5f93a7264b98594489d62b35e
+      internalID: 1600107523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_30
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0.75
+        width: 182.5
+        height: 201.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16631ebd9dc2d443b14f6d0e49e4fea
+      internalID: -548941553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_0: -509437331
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_1: -1728682774
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_10: -720073254
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_11: -1250897864
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_12: 32079078
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_13: 782075551
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_14: -1950774153
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_15: -384205999
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_16: -921307985
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_17: -1368000022
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_18: 1616499988
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_19: 741414295
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_2: 960300860
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_20: -755025779
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_21: 2042392061
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_22: -253323150
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_23: -1749175521
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_24: -645900837
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_25: -587765777
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_26: -1747802777
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_27: -519864523
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_28: -30289450
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_29: 1600107523
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_3: 1076796244
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_30: -548941553
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_4: 1964149963
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_5: -2070541353
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_6: 1156256057
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_7: 1805736358
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_8: 1261524533
+      Village-NPC-Pixel-Art-Character-Sprite-Pack4 1_9: 463432756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
